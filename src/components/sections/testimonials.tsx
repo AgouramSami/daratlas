@@ -31,10 +31,9 @@ const ACCENT_BORDER: Record<TestimonialEntry['accent'], string> = {
 
 interface TestimonialCardProps {
   testimonial: TestimonialEntry;
-  index: number;
 }
 
-function TestimonialCard({ testimonial, index }: TestimonialCardProps) {
+function TestimonialCard({ testimonial }: TestimonialCardProps) {
   const ref = useRef<HTMLElement>(null);
 
   const xRaw = useMotionValue(0);
@@ -145,7 +144,7 @@ export function Testimonials() {
         <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3 lg:gap-8">
           {testimonials.map((testimonial, index) => (
             <FadeIn key={testimonial.id} delay={index * 0.08}>
-              <TestimonialCard testimonial={testimonial} index={index} />
+              <TestimonialCard testimonial={testimonial} />
             </FadeIn>
           ))}
         </div>
