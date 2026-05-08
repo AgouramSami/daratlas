@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/next';
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import { Inter, Instrument_Serif } from 'next/font/google';
@@ -62,6 +63,7 @@ export default async function LocaleLayout({ children, params }: LocaleLayoutPro
           <Footer />
         </NextIntlClientProvider>
         <PlausibleScript />
+        <Analytics />
       </body>
     </html>
   );
