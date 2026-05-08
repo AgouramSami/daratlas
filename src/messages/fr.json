@@ -1,0 +1,280 @@
+{
+  "nav": {
+    "manifeste": "Manifeste",
+    "services": "Services",
+    "process": "Process",
+    "travaux": "Travaux",
+    "tarifs": "Tarifs",
+    "faq": "FAQ",
+    "contact": "Démarrer un projet",
+    "menuOpen": "Ouvrir le menu",
+    "menuClose": "Fermer le menu",
+    "localeLabel": "Sélection de la langue",
+    "skipToContent": "Aller au contenu principal",
+    "mainNavigation": "Navigation principale"
+  },
+  "hero": {
+    "badge": "Un studio web, par Sami Agouram",
+    "titlePart1": "Vous avez une idée.",
+    "titleItalic": "On la met en ligne.",
+    "subtitle": "Vous racontez le projet. On dessine, on code, on lance. Vous gardez la main, dès le premier jour.",
+    "ctaPrimary": "Démarrer un projet",
+    "ctaSecondary": "Voir les travaux"
+  },
+  "marquee": {
+    "ariaLabel": "Domaines d'expertise"
+  },
+  "manifesto": {
+    "chapter": "01",
+    "eyebrow": "Manifeste",
+    "titlePart1": "Un studio web,",
+    "titleItalic": "à votre échelle.",
+    "intro": "On a voulu construire le studio qu'on aurait aimé trouver. Qui écoute avant de proposer. Qui livre ce qu'il a annoncé. Qui reste joignable une fois le site en ligne. Rien de plus, rien de moins.",
+    "pillarsLead": "Comment on travaille",
+    "pillars": [
+      {
+        "title": "L'écoute d'abord",
+        "description": "Avant de coder, on prend le temps de comprendre ce que vous faites, pourquoi, et pour qui. Le site n'est qu'un outil au service de votre activité, jamais l'inverse."
+      },
+      {
+        "title": "Le code, pas le template",
+        "description": "Chaque projet part d'une page blanche. Le design vient de votre besoin, pas d'un thème acheté. Le résultat ne ressemble à personne d'autre."
+      },
+      {
+        "title": "Le détail jusqu'au bout",
+        "description": "Mobile, desktop, vitesse de chargement, lisibilité, accessibilité. Tout est testé, plusieurs fois. On ne livre pas tant qu'on n'est pas content du résultat."
+      }
+    ],
+    "founderLabel": "Fondé par",
+    "founderName": "Sami Agouram",
+    "founderRole": "Studio web, France"
+  },
+  "launch": {
+    "chapter": "04",
+    "eyebrow": "Lancement",
+    "titlePart1": "Premier client,",
+    "titleItalic": "conditions spéciales.",
+    "description": "Dar Atlas vient d'ouvrir. Pour le premier projet livré, voici un cadre clair, pensé pour un lancement gagnant-gagnant.",
+    "items": [
+      {
+        "tag": "Tarif",
+        "title": "Moins 30 pour cent sur le devis",
+        "description": "Réduction appliquée sur le devis fixe annoncé par offre. Sans frais cachés, sans remontée à la livraison."
+      },
+      {
+        "tag": "Disponibilité",
+        "title": "Démarrage sous 7 jours",
+        "description": "Aucun client en cours. 100 pour cent du temps studio sur votre projet. Démo chaque vendredi dès la première semaine."
+      },
+      {
+        "tag": "Engagement",
+        "title": "Étude de cas publique",
+        "description": "Brief, choix techniques, métriques, score Lighthouse final. Documenté en transparence. Tu valides chaque ligne avant publication."
+      },
+      {
+        "tag": "Garantie",
+        "title": "Code source dès le jour 1",
+        "description": "Repo GitHub partagé, branche main protégée, accès admin sur vos comptes. Si on s'arrête, vous repartez avec tout."
+      }
+    ],
+    "ctaLabel": "Réserver le slot",
+    "secondaryLabel": "Voir les tarifs"
+  },
+  "services": {
+    "chapter": "02",
+    "eyebrow": "Services",
+    "titlePart1": "Cinq façons",
+    "titleItalic": "de faire exister votre projet.",
+    "description": "Un format simple : pour chaque offre, un prix de départ, une durée et le contenu inclus. Vous décidez en connaissance de cause, sans surprise au moment de la facture.",
+    "priceLabel": "À partir de",
+    "ctaLabel": "Démarrer"
+  },
+  "process": {
+    "chapter": "03",
+    "eyebrow": "Comment on travaille",
+    "titlePart1": "Quatre étapes,",
+    "titleItalic": "et votre projet existe.",
+    "description": "On vous appelle, on construit, on affine, on lance. Pas d'étapes cachées, pas de jargon. À chaque étape, vous savez où on en est."
+  },
+  "portfolio": {
+    "chapter": "04",
+    "eyebrow": "Travaux",
+    "titlePart1": "Du sur-mesure,",
+    "titleItalic": "à votre image.",
+    "description": "Quelques exemples de projets qu'on aime construire. Chaque site est pensé pour le métier qu'il sert, pas l'inverse.",
+    "sectorLabel": "Secteur",
+    "typeLabel": "Type",
+    "yearLabel": "Année",
+    "ctaLabel": "En discuter"
+  },
+  "testimonials": {
+    "chapter": "05",
+    "eyebrow": "Témoignages",
+    "titlePart1": "Trois retours",
+    "titleItalic": "qui reviennent.",
+    "description": "Ce que les clients nous disent le plus souvent, après livraison."
+  },
+  "team": {
+    "chapter": "06",
+    "eyebrow": "À propos",
+    "titlePart1": "Un studio web,",
+    "titleItalic": "par Sami Agouram.",
+    "description": "Studio web indépendant, basé en France. La même personne fait l'écoute, le scope, le design et le code, du début à la fin. Pas d'intermédiaire, pas de passation, vous parlez à celui qui livre."
+  },
+  "faq": {
+    "chapter": "07",
+    "eyebrow": "FAQ",
+    "titlePart1": "Vos questions,",
+    "titleItalic": "nos réponses.",
+    "description": "Les questions qu'on nous pose le plus souvent avant de démarrer. Si la vôtre n'est pas là, écrivez-nous, on répond en 24 heures."
+  },
+  "cta": {
+    "eyebrow": "On commence ?",
+    "titlePart1": "Vous avez un projet ?",
+    "titleItalic": "On le met en ligne.",
+    "description": "30 minutes au téléphone, sans engagement. Vous repartez avec une question répondue, un avis honnête ou un devis fixe sous 48 heures.",
+    "primary": "Démarrer un projet",
+    "secondary": "Voir les travaux",
+    "email": "Écrire à contact@daratlas.fr"
+  },
+  "footer": {
+    "tagline": "Vous avez une idée. On la met en ligne.",
+    "headings": {
+      "studio": "Studio",
+      "pages": "Pages",
+      "contact": "Contact"
+    },
+    "links": {
+      "manifesto": "Manifeste",
+      "services": "Services",
+      "process": "Process",
+      "work": "Travaux",
+      "testimonials": "Témoignages",
+      "faq": "FAQ",
+      "pricing": "Tarifs",
+      "contact": "Contact",
+      "legal": "Mentions légales",
+      "privacy": "Politique de confidentialité"
+    },
+    "host": "Hébergé en France",
+    "analytics": "Analytics anonyme, sans cookie"
+  },
+  "contactPage": {
+    "metaTitle": "Contact, démarrer un projet",
+    "metaDescription": "30 minutes au téléphone, sans engagement. Vous repartez avec une question répondue, un avis honnête ou un devis fixe sous 48 heures.",
+    "eyebrow": "Contact",
+    "titlePart1": "Parlons de",
+    "titleItalic": "votre projet.",
+    "description": "Remplissez le formulaire ci-dessous. On vous répond en 24 heures ouvrées avec une question, une proposition d'appel ou un devis fixe sous 48 heures.",
+    "asideHeading": "Plus simple par email ?",
+    "trust": {
+      "responseLabel": "Réponse",
+      "responseValue": "Sous 24 heures ouvrées",
+      "quoteLabel": "Devis fixe",
+      "quoteValue": "Sous 48 heures",
+      "callLabel": "Premier appel",
+      "callValue": "30 minutes, sans engagement"
+    },
+    "asideNote": "Vous écrivez à une vraie personne, pas à un service client. La même qui prend l'appel, dessine, code et livre.",
+    "form": {
+      "name": "Votre nom",
+      "email": "Email",
+      "emailPlaceholder": "vous@entreprise.com",
+      "projectType": "Type de projet",
+      "budget": "Budget estimé",
+      "website": "Site existant, lien éventuel",
+      "websitePlaceholder": "https://...",
+      "message": "Racontez votre projet en quelques lignes",
+      "messagePlaceholder": "Quel est l'objectif, qui sont les utilisateurs, quels sont les délais ?",
+      "selectPlaceholder": "Choisissez une option",
+      "submit": "Envoyer le brief",
+      "submitting": "Envoi en cours...",
+      "responseTime": "Réponse sous 24 heures ouvrées",
+      "consent": "En envoyant ce formulaire, vous acceptez que vos données soient utilisées pour répondre à votre demande. Aucune donnée n'est partagée à un tiers.",
+      "successTitle": "Message envoyé.",
+      "successDescription": "On vous répond en 24 heures ouvrées. Si c'est urgent, écrivez directement à contact@daratlas.fr.",
+      "queuedTitle": "Bien reçu, mais...",
+      "queuedDescription": "L'envoi automatique n'est pas encore actif sur ce site. Pour être sûr que votre message arrive, écrivez directement à contact@daratlas.fr. Réponse en 24 heures.",
+      "queuedMailto": "Écrire à contact@daratlas.fr",
+      "errorGeneric": "Une erreur est survenue, réessayez dans un instant.",
+      "errorNetwork": "Connexion impossible, vérifiez votre connexion internet.",
+      "projectTypes": [
+        "Site web",
+        "Boutique en ligne",
+        "Application",
+        "Identité visuelle",
+        "Refonte ou amélioration",
+        "Autre"
+      ],
+      "budgets": [
+        "Moins de 2000 €",
+        "2000 à 5000 €",
+        "5000 à 12000 €",
+        "12000 € et plus",
+        "Pas encore défini"
+      ]
+    }
+  },
+  "pricingPage": {
+    "metaTitle": "Tarifs",
+    "metaDescription": "Cinq offres, prix de départ clairs, devis fixe sous 48 heures. Moitié à la signature, moitié à la livraison.",
+    "eyebrow": "Tarifs",
+    "titlePart1": "Cinq offres,",
+    "titleItalic": "des prix clairs.",
+    "description": "Un format simple pour chaque type de projet : un prix de départ, une durée, ce qui est inclus. Le devis fixe vous est envoyé sous 48 heures après notre premier appel.",
+    "ctaQuote": "Demander un devis",
+    "includedLabel": "Inclus",
+    "durationLabel": "Durée",
+    "paymentEyebrow": "Paiement",
+    "paymentTitlePart1": "Moitié à la signature,",
+    "paymentTitleItalic": "moitié à la livraison.",
+    "paymentDescription": "Un démarrage clair, une livraison sereine. Pour les projets plus longs, le paiement peut se découper en trois étapes (acompte, validation, lancement).",
+    "paymentBlocks": [
+      {
+        "title": "Projet courant",
+        "description": "50 % à la signature, 50 % à la livraison. Virement, Stripe ou prélèvement, selon votre préférence."
+      },
+      {
+        "title": "Projet long",
+        "description": "À partir de 8000 €, découpage en trois étapes : acompte, validation du design, mise en ligne."
+      },
+      {
+        "title": "Factures conformes",
+        "description": "TVA si applicable, mentions légales complètes, suivi clair sur un espace partagé."
+      }
+    ],
+    "afterEyebrow": "Après la livraison",
+    "afterTitlePart1": "Le site est à vous.",
+    "afterTitleItalic": "On reste joignable.",
+    "afterDescription": "Vous gardez la main sur tout. Hébergement payé directement par vous, code source disponible, accès admin transmis. Pour les évolutions, plusieurs formats au choix.",
+    "afterPosts": [
+      {
+        "title": "Hébergement",
+        "description": "Inclus pour la première année. Ensuite entre 0 et 20 € par mois, payé directement par vous à l'hébergeur. Aucune marge cachée."
+      },
+      {
+        "title": "Bugs et corrections",
+        "description": "30 jours de corrections offerts après la livraison. Au-delà, à la demande au tarif horaire."
+      },
+      {
+        "title": "Maintenance régulière",
+        "description": "Pour ceux qui veulent une présence active : forfait mensuel sur mesure pour les mises à jour, ajouts et support prioritaire."
+      }
+    ],
+    "faqEyebrow": "Questions sur les tarifs",
+    "faqTitlePart1": "Tout ce qu'on nous demande,",
+    "faqTitleItalic": "avant de signer."
+  },
+  "legal": {
+    "mentionsTitle": "Mentions légales",
+    "mentionsMetaDescription": "Mentions légales du site daratlas.fr, éditeur, hébergeur, propriété intellectuelle.",
+    "mentionsEyebrow": "Mentions légales",
+    "mentionsHeading": "Informations légales du site daratlas.fr",
+    "mentionsDescription": "Conformément aux articles 6-III et 19 de la loi pour la confiance dans l'économie numérique du 21 juin 2004, voici les informations relatives à l'éditeur du site et à son hébergeur.",
+    "privacyTitle": "Politique de confidentialité",
+    "privacyMetaDescription": "Politique de confidentialité du site daratlas.fr : données collectées, finalités, durée de conservation, droits des utilisateurs et cookies.",
+    "privacyEyebrow": "Politique de confidentialité",
+    "privacyHeading": "Comment je traite vos données, en clair.",
+    "privacyDescription": "Le site daratlas.fr respecte le Règlement général sur la protection des données (RGPD) et la loi Informatique et Libertés. Voici exactement ce que je collecte, pourquoi, et combien de temps."
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "nav": {
+    "manifeste": "Manifesto",
+    "services": "Services",
+    "process": "Process",
+    "travaux": "Work",
+    "tarifs": "Pricing",
+    "faq": "FAQ",
+    "contact": "Start a project",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu",
+    "localeLabel": "Language selection",
+    "skipToContent": "Skip to main content",
+    "mainNavigation": "Main navigation"
+  },
+  "hero": {
+    "badge": "A web studio, by Sami Agouram",
+    "titlePart1": "You have an idea.",
+    "titleItalic": "We put it online.",
+    "subtitle": "You tell the story. We design, we code, we launch. You keep the keys, from day one.",
+    "ctaPrimary": "Start a project",
+    "ctaSecondary": "See our work"
+  },
+  "marquee": {
+    "ariaLabel": "Areas of expertise"
+  },
+  "manifesto": {
+    "chapter": "01",
+    "eyebrow": "Manifesto",
+    "titlePart1": "A web studio,",
+    "titleItalic": "to your scale.",
+    "intro": "We wanted to build the studio we would have liked to find. One that listens before proposing. One that delivers what it promised. One that stays reachable once the site is live. Nothing more, nothing less.",
+    "pillarsLead": "How we work",
+    "pillars": [
+      {
+        "title": "Listening first",
+        "description": "Before writing code, we take the time to understand what you do, why, and for whom. The site is just a tool serving your activity, never the other way around."
+      },
+      {
+        "title": "Code, not templates",
+        "description": "Every project starts from a blank page. The design comes from your need, not from a bought theme. The result looks like nobody else's."
+      },
+      {
+        "title": "Detail to the end",
+        "description": "Mobile, desktop, loading speed, readability, accessibility. Everything is tested, multiple times. We don't ship until we are happy with the result."
+      }
+    ],
+    "founderLabel": "Founded by",
+    "founderName": "Sami Agouram",
+    "founderRole": "Web studio, France"
+  },
+  "launch": {
+    "chapter": "04",
+    "eyebrow": "Launch",
+    "titlePart1": "First client,",
+    "titleItalic": "special terms.",
+    "description": "Dar Atlas just opened. For the first project shipped, here is a clear, win-win framework.",
+    "items": [
+      {
+        "tag": "Price",
+        "title": "30 percent off the quote",
+        "description": "Discount applied to the fixed quote announced per offer. No hidden cost, no upcharge at delivery."
+      },
+      {
+        "tag": "Availability",
+        "title": "Start within 7 days",
+        "description": "No active clients. 100 percent of studio time on your project. Demo every Friday from week one."
+      },
+      {
+        "tag": "Commitment",
+        "title": "Public case study",
+        "description": "Brief, technical choices, metrics, final Lighthouse score. Documented openly. You validate every line before publication."
+      },
+      {
+        "tag": "Guarantee",
+        "title": "Source code from day one",
+        "description": "Shared GitHub repo, protected main branch, admin access on your accounts. If we part ways, you walk away with everything."
+      }
+    ],
+    "ctaLabel": "Reserve the slot",
+    "secondaryLabel": "See pricing"
+  },
+  "services": {
+    "chapter": "02",
+    "eyebrow": "Services",
+    "titlePart1": "Five ways",
+    "titleItalic": "to bring your project to life.",
+    "description": "A simple format: for each offer, a starting price, a duration and what's included. You decide with full information, no surprise on the invoice.",
+    "priceLabel": "Starting at",
+    "ctaLabel": "Start"
+  },
+  "process": {
+    "chapter": "03",
+    "eyebrow": "How we work",
+    "titlePart1": "Four steps,",
+    "titleItalic": "and your project exists.",
+    "description": "We call, we build, we polish, we launch. No hidden steps, no jargon. At each stage, you know exactly where we stand."
+  },
+  "portfolio": {
+    "chapter": "04",
+    "eyebrow": "Work",
+    "titlePart1": "Custom-made,",
+    "titleItalic": "in your image.",
+    "description": "A few examples of projects we like to build. Every site is designed for the activity it serves, not the other way around.",
+    "sectorLabel": "Sector",
+    "typeLabel": "Type",
+    "yearLabel": "Year",
+    "ctaLabel": "Discuss"
+  },
+  "testimonials": {
+    "chapter": "05",
+    "eyebrow": "Testimonials",
+    "titlePart1": "Three things",
+    "titleItalic": "we hear most.",
+    "description": "What clients keep telling us, after delivery."
+  },
+  "team": {
+    "chapter": "06",
+    "eyebrow": "About",
+    "titlePart1": "A web studio,",
+    "titleItalic": "by Sami Agouram.",
+    "description": "Independent web studio, based in France. The same person handles the listening, the scoping, the design and the code, from start to finish. No middleman, no handoff, you talk to the person who delivers."
+  },
+  "faq": {
+    "chapter": "07",
+    "eyebrow": "FAQ",
+    "titlePart1": "Your questions,",
+    "titleItalic": "our answers.",
+    "description": "The questions we hear the most before starting. If yours is not here, write to us, we reply within 24 hours."
+  },
+  "cta": {
+    "eyebrow": "Shall we start?",
+    "titlePart1": "Got a project?",
+    "titleItalic": "We put it online.",
+    "description": "30 minutes on the phone, no strings attached. You leave with an answer, an honest opinion, or a fixed quote within 48 hours.",
+    "primary": "Start a project",
+    "secondary": "See our work",
+    "email": "Write to contact@daratlas.fr"
+  },
+  "footer": {
+    "tagline": "You have an idea. We put it online.",
+    "headings": {
+      "studio": "Studio",
+      "pages": "Pages",
+      "contact": "Contact"
+    },
+    "links": {
+      "manifesto": "Manifesto",
+      "services": "Services",
+      "process": "Process",
+      "work": "Work",
+      "testimonials": "Testimonials",
+      "faq": "FAQ",
+      "pricing": "Pricing",
+      "contact": "Contact",
+      "legal": "Legal notice",
+      "privacy": "Privacy policy"
+    },
+    "host": "Hosted in France",
+    "analytics": "Anonymous analytics, no cookies"
+  },
+  "contactPage": {
+    "metaTitle": "Contact, start a project",
+    "metaDescription": "30 minutes on the phone, no strings attached. You leave with an answered question, an honest opinion or a fixed quote within 48 hours.",
+    "eyebrow": "Contact",
+    "titlePart1": "Let's talk about",
+    "titleItalic": "your project.",
+    "description": "Fill out the form below. We reply within 24 business hours with a question, a call proposal or a fixed quote within 48 hours.",
+    "asideHeading": "Easier by email?",
+    "trust": {
+      "responseLabel": "Reply",
+      "responseValue": "Within 24 business hours",
+      "quoteLabel": "Fixed quote",
+      "quoteValue": "Within 48 hours",
+      "callLabel": "First call",
+      "callValue": "30 minutes, no commitment"
+    },
+    "asideNote": "You're writing to a real person, not a customer service. The same one who takes the call, designs, codes and ships.",
+    "form": {
+      "name": "Your name",
+      "email": "Email",
+      "emailPlaceholder": "you@company.com",
+      "projectType": "Project type",
+      "budget": "Estimated budget",
+      "website": "Existing site, optional link",
+      "websitePlaceholder": "https://...",
+      "message": "Tell us about your project in a few lines",
+      "messagePlaceholder": "What's the goal, who are the users, what are the deadlines?",
+      "selectPlaceholder": "Pick one",
+      "submit": "Send the brief",
+      "submitting": "Sending...",
+      "responseTime": "Reply within 24 business hours",
+      "consent": "By submitting this form, you agree that your data will be used to reply to your request. No data is shared with third parties.",
+      "successTitle": "Message sent.",
+      "successDescription": "We reply within 24 business hours. If urgent, write directly to contact@daratlas.fr.",
+      "queuedTitle": "Got it, but...",
+      "queuedDescription": "Auto-delivery is not active on this site yet. To make sure your message gets through, write directly to contact@daratlas.fr. Reply within 24 hours.",
+      "queuedMailto": "Write to contact@daratlas.fr",
+      "errorGeneric": "Something went wrong, please try again in a moment.",
+      "errorNetwork": "Connection failed, please check your internet.",
+      "projectTypes": [
+        "Website",
+        "Online store",
+        "Application",
+        "Visual identity",
+        "Redesign or improvement",
+        "Other"
+      ],
+      "budgets": [
+        "Under 2000 €",
+        "2000 to 5000 €",
+        "5000 to 12000 €",
+        "12000 € and above",
+        "Not yet defined"
+      ]
+    }
+  },
+  "pricingPage": {
+    "metaTitle": "Pricing",
+    "metaDescription": "Five offers, clear starting prices, fixed quote within 48 hours. Half on signing, half on delivery.",
+    "eyebrow": "Pricing",
+    "titlePart1": "Five offers,",
+    "titleItalic": "clear prices.",
+    "description": "A simple format for each type of project: a starting price, a duration, what's included. The fixed quote is sent within 48 hours after our first call.",
+    "ctaQuote": "Request a quote",
+    "includedLabel": "Included",
+    "durationLabel": "Duration",
+    "paymentEyebrow": "Payment",
+    "paymentTitlePart1": "Half on signing,",
+    "paymentTitleItalic": "half on delivery.",
+    "paymentDescription": "A clean kickoff, a smooth delivery. For longer projects, payment can split into three steps (deposit, validation, launch).",
+    "paymentBlocks": [
+      {
+        "title": "Standard project",
+        "description": "50% on signing, 50% on delivery. Bank transfer, Stripe or direct debit, your call."
+      },
+      {
+        "title": "Long project",
+        "description": "From €8000, payment splits into three steps: deposit, design validation, going live."
+      },
+      {
+        "title": "Compliant invoices",
+        "description": "VAT if applicable, full legal mentions, clear tracking on a shared workspace."
+      }
+    ],
+    "afterEyebrow": "After delivery",
+    "afterTitlePart1": "The site is yours.",
+    "afterTitleItalic": "We stay reachable.",
+    "afterDescription": "You keep the keys to everything. Hosting paid directly by you, source code available, admin access handed over. For evolutions, several options.",
+    "afterPosts": [
+      {
+        "title": "Hosting",
+        "description": "Included for the first year. After that, between €0 and €20 per month, paid directly by you to the host. No hidden markup."
+      },
+      {
+        "title": "Bugs and fixes",
+        "description": "30 days of free fixes after delivery. After that, on demand at the hourly rate."
+      },
+      {
+        "title": "Regular maintenance",
+        "description": "For those who want an active presence: tailored monthly retainer for updates, additions and priority support."
+      }
+    ],
+    "faqEyebrow": "Pricing questions",
+    "faqTitlePart1": "Everything we get asked,",
+    "faqTitleItalic": "before signing."
+  },
+  "legal": {
+    "mentionsTitle": "Legal notice",
+    "mentionsMetaDescription": "Legal information for daratlas.fr, publisher, host, intellectual property.",
+    "mentionsEyebrow": "Legal notice",
+    "mentionsHeading": "Legal information for daratlas.fr",
+    "mentionsDescription": "In accordance with articles 6-III and 19 of the French Trust in the Digital Economy Act of June 21, 2004, here is the information about the publisher of the site and its host.",
+    "privacyTitle": "Privacy policy",
+    "privacyMetaDescription": "Privacy policy for daratlas.fr: data collected, purposes, retention period, user rights and cookies.",
+    "privacyEyebrow": "Privacy policy",
+    "privacyHeading": "How I handle your data, in plain English.",
+    "privacyDescription": "The daratlas.fr site complies with the General Data Protection Regulation (GDPR) and the French Data Protection Act. Here is exactly what I collect, why, and for how long."
+  }
+}
