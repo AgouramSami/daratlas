@@ -55,8 +55,8 @@ export function Hero() {
 
       <motion.div
         aria-hidden="true"
-        style={{ y: decoY, opacity: decoOpacity }}
-        className="pointer-events-none absolute -right-4 top-20 hidden select-none font-display text-[14rem] italic leading-[0.8] text-tomato/15 sm:-right-12 sm:top-24 sm:block sm:text-[20rem] lg:-right-16 lg:top-32 lg:text-[30rem]"
+        style={{ y: decoY, opacity: decoOpacity, willChange: 'transform' }}
+        className="pointer-events-none absolute -right-4 top-20 hidden select-none font-display text-[14rem] italic leading-[0.8] text-tomato/15 transform-gpu sm:-right-12 sm:top-24 sm:block sm:text-[20rem] lg:-right-16 lg:top-32 lg:text-[30rem]"
       >
         ’26
       </motion.div>

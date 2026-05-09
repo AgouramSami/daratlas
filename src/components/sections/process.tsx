@@ -41,8 +41,8 @@ function StepPanel({ step, index, total }: StepPanelProps) {
 
         <div className="container-x relative grid w-full gap-6 lg:grid-cols-[1fr_1fr] lg:items-center lg:gap-20">
           <motion.div
-            style={{ y: numberY, opacity: contentOpacity }}
-            className="relative flex flex-col gap-3 lg:gap-4"
+            style={{ y: numberY, opacity: contentOpacity, willChange: 'transform' }}
+            className="relative flex transform-gpu flex-col gap-3 lg:gap-4"
           >
             <span className="font-mono text-[11px] uppercase tracking-[0.22em] text-ink/45 transition-colors duration-500">
               {step.weeks}

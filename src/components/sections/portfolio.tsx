@@ -215,8 +215,8 @@ export function Portfolio() {
       >
         <div className="sticky top-0 flex h-screen items-center overflow-hidden">
           <motion.div
-            style={{ x }}
-            className="flex w-max items-center gap-10 pl-12 pr-12"
+            style={{ x, willChange: 'transform' }}
+            className="flex w-max transform-gpu items-center gap-10 pl-12 pr-12"
           >
             {projects.map((project) => (
               <ProjectCard key={project.id} project={project} labels={labels} />

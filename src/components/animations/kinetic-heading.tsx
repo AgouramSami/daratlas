@@ -33,7 +33,7 @@ export function KineticText({
   const tokens = text.split(/(\s+)/);
 
   return (
-    <span ref={ref} className={className} aria-label={text}>
+    <span ref={ref} className={`transform-gpu ${className ?? ''}`} aria-label={text}>
       {tokens.map((token, ti) => {
         if (/^\s+$/.test(token)) return <Fragment key={`s-${ti}`}>{token}</Fragment>;
         return (
