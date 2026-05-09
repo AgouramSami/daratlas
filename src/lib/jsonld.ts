@@ -19,7 +19,7 @@ export function buildOrganizationJsonLd() {
     founder: {
       '@type': 'Person',
       name: 'Sami Agouram',
-      jobTitle: 'Tech lead et fondateur',
+      jobTitle: 'Fondateur',
     },
     sameAs: [SITE_CONFIG.social.linkedin, SITE_CONFIG.social.github, SITE_CONFIG.social.x],
   };
@@ -55,8 +55,8 @@ export function buildLocalBusinessJsonLd() {
           '@type': 'Offer',
           itemOffered: {
             '@type': 'Service',
-            name: 'Sites web et landing pages',
-            description: 'Sites marketing rapides et beaux en Next.js ou Astro.',
+            name: 'Site web',
+            description: 'Site web personnalisé conçu pour votre activité, optimisé pour mobile et Google.',
           },
           price: '1500',
           priceCurrency: 'EUR',
@@ -65,8 +65,8 @@ export function buildLocalBusinessJsonLd() {
           '@type': 'Offer',
           itemOffered: {
             '@type': 'Service',
-            name: 'E-commerce sur mesure',
-            description: 'Boutiques en ligne avec checkout sécurisé, multilingue.',
+            name: 'Boutique en ligne',
+            description: 'Boutique e-commerce conçue pour votre métier, avec catalogue, panier et paiement sécurisé.',
           },
           price: '3500',
           priceCurrency: 'EUR',
@@ -75,20 +75,30 @@ export function buildLocalBusinessJsonLd() {
           '@type': 'Offer',
           itemOffered: {
             '@type': 'Service',
-            name: 'Intégrations IA et automatisation',
-            description: 'Chatbots, pipelines de contenu, automatisation de workflow.',
+            name: 'Application web',
+            description: 'Application web pour votre équipe, vos clients ou votre activité, développée à partir de votre besoin.',
           },
-          price: '2000',
+          price: '4000',
           priceCurrency: 'EUR',
         },
         {
           '@type': 'Offer',
           itemOffered: {
             '@type': 'Service',
-            name: 'Audit sécurité et performance',
-            description: 'Audit OWASP, Core Web Vitals, conformité RGPD.',
+            name: 'Identité visuelle',
+            description: 'Logo, palette, typographies et déclinaisons, pensés pour fonctionner sur tous vos supports.',
           },
-          price: '800',
+          price: '1200',
+          priceCurrency: 'EUR',
+        },
+        {
+          '@type': 'Offer',
+          itemOffered: {
+            '@type': 'Service',
+            name: 'Refonte ou amélioration',
+            description: 'Audit de l\'existant, plan d\'action écrit, refonte ou correction selon votre choix.',
+          },
+          price: '900',
           priceCurrency: 'EUR',
         },
       ],

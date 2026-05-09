@@ -5,8 +5,8 @@ export const SITE_CONFIG = {
   shortName: 'Dar Atlas',
   url: 'https://daratlas.fr',
   description:
-    'Studio web français. On fabrique des sites, des boutiques en ligne et des applications pour tout type d\'activité. Prix fixes, livraison rapide, accompagnement direct.',
-  tagline: 'On fabrique des sites et des apps qui font le job.',
+    'Studio web français. On conçoit des sites, des boutiques en ligne et des applications pour tout type d\'activité. Prix fixes, livraison rapide, accompagnement direct.',
+  tagline: 'On conçoit des sites et des apps qui tiennent leurs promesses.',
   contactEmail: 'contact@daratlas.fr',
   contactPhone: '+33 6 52 02 27 87',
   contactPhoneDisplay: '06 52 02 27 87',
@@ -38,29 +38,29 @@ export const NAV_LINKS = [
 ] as const;
 
 const marqueeFr = [
-  'Sites web sur mesure',
+  'Sites web singuliers',
   'Boutiques en ligne',
   'Applications web',
   'Identité visuelle',
   'Refontes et améliorations',
   'Multilingue',
   'Mobile-first',
-  'Soigné jusqu\'au dernier pixel',
+  'Précis jusqu\'au pixel',
   'Livré en mains propres',
-  'Construit sérieusement',
+  'Bâti pour durer',
 ];
 
 const marqueeEn = [
-  'Custom websites',
+  'Singular websites',
   'Online stores',
   'Web applications',
   'Visual identities',
   'Redesigns and improvements',
   'Multilingual',
   'Mobile-first',
-  'Polished to the last pixel',
+  'Precise to the pixel',
   'Hand-delivered',
-  'Built seriously',
+  'Built to last',
 ];
 
 export const MARQUEE_ITEMS_BY_LOCALE: Record<AppLocale, string[]> = {

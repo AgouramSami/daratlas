@@ -19,9 +19,9 @@ const fr: ProcessStep[] = [
     id: 'on-construit',
     number: '02',
     weeks: 'Phase principale',
-    title: 'On construit',
+    title: 'On conçoit',
     description:
-      'On construit directement votre site ou votre app en code, dès la première semaine. Vous le voyez évoluer en temps réel sur une URL privée, plutôt que d\'attendre une longue phase de maquette.',
+      'On développe directement votre site ou votre app en code, dès la première semaine. Vous le voyez évoluer en temps réel sur une URL privée, sans attendre une longue phase de maquette.',
     deliverables: [
       'Lien de prévisualisation dès la première semaine',
       'Point hebdomadaire',
@@ -45,9 +45,9 @@ const fr: ProcessStep[] = [
     id: 'on-lance',
     number: '04',
     weeks: 'Le jour J',
-    title: 'On lance',
+    title: 'On déploie',
     description:
-      'Mise en ligne, configuration du nom de domaine, vérifications, formation pour que vous puissiez gérer la suite. 30 jours de corrections gratuites.',
+      'Déploiement, configuration du nom de domaine, vérifications, formation pour que vous puissiez gérer la suite. 30 jours de corrections offertes.',
     deliverables: [
       'Votre site ou votre app en ligne',
       'Session de formation',
@@ -74,9 +74,9 @@ const en: ProcessStep[] = [
     id: 'on-construit',
     number: '02',
     weeks: 'Build phase',
-    title: 'We build',
+    title: 'We design',
     description:
-      'We build your site or your app directly in code from week one. You watch it grow in real time on a private URL, rather than waiting on a long mockup phase.',
+      'We develop your site or your app directly in code from week one. You watch it grow in real time on a private URL, without waiting on a long mockup phase.',
     deliverables: [
       'Preview link from the first week',
       'Weekly check-in',
@@ -100,9 +100,9 @@ const en: ProcessStep[] = [
     id: 'on-lance',
     number: '04',
     weeks: 'Launch day',
-    title: 'We launch',
+    title: 'We deploy',
     description:
-      'Going live, domain configuration, checks, training so you can manage the next steps. 30 days of free fixes.',
+      'Deployment, domain configuration, checks, training so you can manage the next steps. 30 days of complimentary fixes.',
     deliverables: [
       'Your site or app live',
       'Training session',

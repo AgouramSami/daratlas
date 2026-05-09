@@ -5,14 +5,14 @@ import './globals.css';
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_CONFIG.url),
   title: {
-    default: 'Dar Atlas, studio web : sites, boutiques en ligne et applications sur mesure',
+    default: 'Dar Atlas, studio web : sites, boutiques en ligne et applications conçus pour votre activité',
     template: '%s · Dar Atlas',
   },
   description: SITE_CONFIG.description,
   keywords: [
     'studio web france',
     'création de site internet',
-    'agence web sur mesure',
+    'agence web indépendante',
     'création boutique en ligne',
     'développement application web',
     'identité visuelle marque',

@@ -16,8 +16,8 @@
   "hero": {
     "badge": "Un studio web, par Sami Agouram",
     "titlePart1": "Vous avez une idée.",
-    "titleItalic": "On la met en ligne.",
-    "subtitle": "Vous racontez le projet. On dessine, on code, on lance. Vous gardez la main, dès le premier jour.",
+    "titleItalic": "On la déploie.",
+    "subtitle": "Vous présentez votre projet. On le conçoit, on le développe, on le déploie. Vous gardez la main, du brief jusqu'au lancement.",
     "ctaPrimary": "Démarrer un projet",
     "ctaSecondary": "Voir les travaux"
   },
@@ -29,20 +29,20 @@
     "eyebrow": "Manifeste",
     "titlePart1": "Un studio web,",
     "titleItalic": "à votre échelle.",
-    "intro": "On a voulu construire le studio qu'on aurait aimé trouver. Qui écoute avant de proposer. Qui livre ce qu'il a annoncé. Qui reste joignable une fois le site en ligne. Rien de plus, rien de moins.",
+    "intro": "On a voulu façonner le studio qu'on aurait aimé trouver. Qui s'imprègne du projet avant de proposer. Qui livre la promesse annoncée. Qui reste joignable une fois le site en ligne.",
     "pillarsLead": "Comment on travaille",
     "pillars": [
       {
-        "title": "L'écoute d'abord",
-        "description": "Avant de coder, on prend le temps de comprendre ce que vous faites, pourquoi, et pour qui. Le site n'est qu'un outil au service de votre activité, jamais l'inverse."
+        "title": "Comprendre d'abord",
+        "description": "Avant de coder, on cerne ce que vous faites, pourquoi, et pour qui. Le site n'est qu'un outil au service de votre activité."
       },
       {
-        "title": "Le code, pas le template",
-        "description": "Chaque projet part d'une page blanche. Le design vient de votre besoin, pas d'un thème acheté. Le résultat ne ressemble à personne d'autre."
+        "title": "Une conception originale",
+        "description": "Chaque projet part d'une page blanche. Le design naît de votre besoin, pensé pour votre métier. Le résultat ne ressemble à personne d'autre."
       },
       {
         "title": "Le détail jusqu'au bout",
-        "description": "Mobile, desktop, vitesse de chargement, lisibilité, accessibilité. Tout est testé, plusieurs fois. On ne livre pas tant qu'on n'est pas content du résultat."
+        "description": "Mobile, desktop, vitesse de chargement, lisibilité, accessibilité. Tout est éprouvé, plusieurs fois. On ne livre que lorsque le résultat est à la hauteur."
       }
     ],
     "founderLabel": "Fondé par",
@@ -84,8 +84,8 @@
     "chapter": "02",
     "eyebrow": "Services",
     "titlePart1": "Cinq façons",
-    "titleItalic": "de faire exister votre projet.",
-    "description": "Un format simple : pour chaque offre, un prix de départ, une durée et le contenu inclus. Vous décidez en connaissance de cause, sans surprise au moment de la facture.",
+    "titleItalic": "de donner forme à votre projet.",
+    "description": "Un format clair : pour chaque offre, un prix de départ, une durée et un périmètre détaillé. Vous décidez en connaissance de cause, sans surprise au moment de la facture.",
     "priceLabel": "À partir de",
     "ctaLabel": "Démarrer"
   },
@@ -94,14 +94,14 @@
     "eyebrow": "Comment on travaille",
     "titlePart1": "Quatre étapes,",
     "titleItalic": "et votre projet existe.",
-    "description": "On vous appelle, on construit, on affine, on lance. Pas d'étapes cachées, pas de jargon. À chaque étape, vous savez où on en est."
+    "description": "Quatre étapes posées : un échange, une conception, un affinage, un lancement. À chaque étape, vous savez où on en est."
   },
   "portfolio": {
     "chapter": "04",
     "eyebrow": "Travaux",
-    "titlePart1": "Du sur-mesure,",
+    "titlePart1": "Conçu,",
     "titleItalic": "à votre image.",
-    "description": "Quelques exemples de projets qu'on aime construire. Chaque site est dessiné pour son métier, son ton, ses utilisateurs.",
+    "description": "Quelques exemples de projets qu'on aime mener. Chaque site est conçu pour son métier, son ton, ses utilisateurs.",
     "sectorLabel": "Secteur",
     "typeLabel": "Type",
     "yearLabel": "Année",
@@ -119,7 +119,7 @@
     "eyebrow": "À propos",
     "titlePart1": "Un studio web,",
     "titleItalic": "par Sami Agouram.",
-    "description": "Studio web indépendant, basé en France. La même personne fait l'écoute, le scope, le design et le code, du début à la fin. Aucun intermédiaire, aucune passation : vous parlez à celui qui livre."
+    "description": "Studio web indépendant, basé en France. Une seule personne sur tout le parcours : du cadrage au design, du code à la mise en production. Vous parlez directement à celui qui livre."
   },
   "faq": {
     "chapter": "07",
@@ -131,14 +131,14 @@
   "cta": {
     "eyebrow": "On commence ?",
     "titlePart1": "Vous avez un projet ?",
-    "titleItalic": "On le met en ligne.",
+    "titleItalic": "On le déploie.",
     "description": "30 minutes au téléphone, sans engagement. Vous repartez avec une question répondue, un avis honnête ou un devis fixe sous 48 heures.",
     "primary": "Démarrer un projet",
     "secondary": "Voir les travaux",
     "email": "Écrire à contact@daratlas.fr"
   },
   "footer": {
-    "tagline": "Vous avez une idée. On la met en ligne.",
+    "tagline": "Vous avez une idée. On la déploie.",
     "headings": {
       "studio": "Studio",
       "pages": "Pages",
@@ -166,7 +166,7 @@
     "titlePart1": "Parlons de",
     "titleItalic": "votre projet.",
     "description": "Remplissez le formulaire ci-dessous. On vous répond en 24 heures ouvrées avec une question, une proposition d'appel ou un devis fixe sous 48 heures.",
-    "asideHeading": "Plus simple par email ?",
+    "asideHeading": "Plutôt par email ?",
     "trust": {
       "responseLabel": "Réponse",
       "responseValue": "Sous 24 heures ouvrées",
@@ -175,7 +175,7 @@
       "callLabel": "Premier appel",
       "callValue": "30 minutes, sans engagement"
     },
-    "asideNote": "Vous écrivez à une vraie personne, pas à un service client. La même qui prend l'appel, dessine, code et livre.",
+    "asideNote": "Vous écrivez à une vraie personne. La même qui prend l'appel, conçoit, code et livre.",
     "form": {
       "name": "Votre nom",
       "email": "Email",
@@ -184,7 +184,7 @@
       "budget": "Budget estimé",
       "website": "Site existant, lien éventuel",
       "websitePlaceholder": "https://...",
-      "message": "Racontez votre projet en quelques lignes",
+      "message": "Présentez votre projet en quelques lignes",
       "messagePlaceholder": "Quel est l'objectif, qui sont les utilisateurs, quels sont les délais ?",
       "selectPlaceholder": "Choisissez une option",
       "submit": "Envoyer le brief",
@@ -228,7 +228,7 @@
     "paymentEyebrow": "Paiement",
     "paymentTitlePart1": "Moitié à la signature,",
     "paymentTitleItalic": "moitié à la livraison.",
-    "paymentDescription": "Un démarrage clair, une livraison sereine. Pour les projets plus longs, le paiement peut se découper en trois étapes (acompte, validation, lancement).",
+    "paymentDescription": "Un démarrage net, une livraison sereine. Pour les projets plus longs, le paiement peut se découper en trois étapes (acompte, validation, lancement).",
     "paymentBlocks": [
       {
         "title": "Projet courant",

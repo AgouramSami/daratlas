@@ -6,7 +6,7 @@ const fr: FaqItem[] = [
     id: 'cout',
     question: 'Combien ça coûte ?',
     answer:
-      'Ça dépend de ce que vous voulez. Un site simple démarre à 1500 €. Une boutique en ligne à 3500 €. Une application à 4000 €. Une identité visuelle à 1200 €. Après notre premier appel, on vous donne un prix fixe sous 48 heures, pas de surprise après.',
+      'Ça dépend de ce que vous voulez. Un site classique démarre à 1500 €. Une boutique en ligne à 3500 €. Une application à 4000 €. Une identité visuelle à 1200 €. Après notre premier appel, on vous donne un prix fixe sous 48 heures, sans surprise après.',
   },
   {
     id: 'duree',
@@ -42,7 +42,7 @@ const fr: FaqItem[] = [
     id: 'apres-lancement',
     question: 'Et après le lancement ?',
     answer:
-      '30 jours de corrections gratuites inclus. Après, soit on travaille à la demande pour les petits changements, soit on met en place un forfait mensuel pour ceux qui veulent une présence régulière.',
+      '30 jours de corrections gratuites inclus. Après, soit on travaille à la demande pour les petits changements, soit on installe un forfait mensuel pour ceux qui veulent une présence régulière.',
   },
   {
     id: 'hebergement',
@@ -66,7 +66,7 @@ const fr: FaqItem[] = [
     id: 'securite-rgpd',
     question: 'C\'est sécurisé, RGPD, tout ça ?',
     answer:
-      'Oui, par défaut. Sécurité de base, conformité RGPD (cookies, mentions légales, registre), backups. On en parle au moment du brief, on vous livre quelque chose de propre.',
+      'Oui, par défaut. Sécurité de base, conformité RGPD (cookies, mentions légales, registre), backups. On en parle au moment du brief, on vous livre quelque chose d\'irréprochable.',
   },
   {
     id: 'localisation',

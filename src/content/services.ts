@@ -9,9 +9,9 @@ const fr: Service[] = [
     priceFrom: 1500,
     duration: '2 à 3 semaines',
     description:
-      'Un site qui présente votre activité, votre produit ou votre projet. Plusieurs pages sur mesure, optimisé pour mobile, prêt pour Google. Vous modifiez le contenu vous-même après livraison.',
+      'Un site qui présente votre activité, votre produit ou votre projet. Plusieurs pages personnalisées, optimisées pour mobile, prêtes pour Google. Vous modifiez le contenu vous-même après livraison.',
     included: [
-      'Design sur mesure, pas un template',
+      'Design personnalisé, conçu pour vous',
       'Responsive mobile et desktop',
       'Jusqu\'à 8 pages',
       'Formulaire de contact connecté',
@@ -28,7 +28,7 @@ const fr: Service[] = [
     priceFrom: 3500,
     duration: '4 à 6 semaines',
     description:
-      'Pour vendre vos produits ou vos services en ligne. Catalogue, panier, paiement sécurisé, gestion des commandes. On construit la boutique qui correspond à votre activité, pas un template générique.',
+      'Pour vendre vos produits ou vos services en ligne. Catalogue, panier, paiement sécurisé, gestion des commandes. On conçoit la boutique qui correspond à votre activité, pensée pour votre métier.',
     included: [
       'Catalogue produits ou services',
       'Panier et paiement sécurisé',
@@ -46,7 +46,7 @@ const fr: Service[] = [
     priceFrom: 4000,
     duration: '4 à 8 semaines',
     description:
-      'Une application web pour votre équipe, vos clients ou votre activité. Outil interne, plateforme de réservation, espace membre, tableau de bord. On part de votre besoin et on construit ce qui le résout.',
+      'Une application web pour votre équipe, vos clients ou votre activité. Outil interne, plateforme de réservation, espace membre, tableau de bord. On part de votre besoin et on développe ce qui y répond.',
     included: [
       'Conception du parcours utilisateur',
       'Design d\'interface',
@@ -82,14 +82,14 @@ const fr: Service[] = [
     priceFrom: 900,
     duration: '1 à 2 semaines pour l\'audit',
     description:
-      'Vous avez déjà un site ou une app, mais quelque chose ne va pas. Trop lent, démodé, mal référencé, difficile à mettre à jour. On regarde ce que vous avez, on vous dit ce qu\'on en pense, et on corrige.',
+      'Vous avez déjà un site ou une app, mais quelque chose ne va pas. Trop lent, démodé, mal référencé, difficile à mettre à jour. On audite l\'existant, on partage notre lecture, on rectifie le tir.',
     included: [
       'Analyse complète',
       'Plan d\'action écrit',
       'Refonte ou corrections selon votre choix',
       'Optimisation vitesse',
       'Optimisation référencement Google',
-      'Mise au propre du code',
+      'Code mis en ordre',
     ],
     stack: [],
   },
@@ -103,9 +103,9 @@ const en: Service[] = [
     priceFrom: 1500,
     duration: '2 to 3 weeks',
     description:
-      'A site that introduces your activity, your product or your project. Custom pages, mobile-optimized, ready for Google. You can edit the content yourself after delivery.',
+      'A site that introduces your activity, your product or your project. Personalized pages, mobile-optimized, ready for Google. You can edit the content yourself after delivery.',
     included: [
-      'Custom design, not a template',
+      'Custom design, made for you',
       'Responsive on mobile and desktop',
       'Up to 8 pages',
       'Connected contact form',
@@ -122,7 +122,7 @@ const en: Service[] = [
     priceFrom: 3500,
     duration: '4 to 6 weeks',
     description:
-      'To sell your products or your services online. Catalog, cart, secure checkout, order management. We build the store that fits your activity, not a generic template.',
+      'To sell your products or your services online. Catalog, cart, secure checkout, order management. We design the store that fits your activity, shaped for your trade.',
     included: [
       'Product or service catalog',
       'Cart and secure payment',
@@ -140,7 +140,7 @@ const en: Service[] = [
     priceFrom: 4000,
     duration: '4 to 8 weeks',
     description:
-      'A web application for your team, your clients or your activity. Internal tool, booking platform, member area, dashboard. We start from your need and build what solves it.',
+      'A web application for your team, your clients or your activity. Internal tool, booking platform, member area, dashboard. We start from your need and develop what answers it.',
     included: [
       'User journey design',
       'Interface design',
@@ -176,14 +176,14 @@ const en: Service[] = [
     priceFrom: 900,
     duration: '1 to 2 weeks for the audit',
     description:
-      'You already have a site or an app, but something is off. Too slow, dated, poor ranking, hard to update. We look at what you have, share an honest opinion, then fix it.',
+      'You already have a site or an app, but something is off. Too slow, dated, poor ranking, hard to update. We audit what exists, share our read, then put things right.',
     included: [
       'Full analysis',
       'Written action plan',
       'Redesign or fixes based on your choice',
       'Speed optimization',
       'Google ranking optimization',
-      'Code cleanup',
+      'Code put in order',
     ],
     stack: [],
   },
