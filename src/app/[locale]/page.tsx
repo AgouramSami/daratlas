@@ -4,7 +4,6 @@ import { Cta } from '@/components/sections/cta';
 import { FaqSection } from '@/components/sections/faq-section';
 import { Hero } from '@/components/sections/hero';
 import { Manifesto } from '@/components/sections/manifesto';
-import { Marquee } from '@/components/sections/marquee';
 import { Portfolio } from '@/components/sections/portfolio';
 import { Process } from '@/components/sections/process';
 import { Services } from '@/components/sections/services';
@@ -23,7 +22,6 @@ export default async function HomePage({ params }: HomePageProps) {
     <main>
       <CurtainOpener />
       <Hero />
-      <Marquee />
       <Manifesto />
       <Services />
       <Process />

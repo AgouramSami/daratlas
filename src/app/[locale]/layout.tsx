@@ -27,6 +27,7 @@ import { Header } from '@/components/layout/header';
 import { JsonLd } from '@/components/layout/json-ld';
 import { PlausibleScript } from '@/components/layout/plausible';
 import { SkipLink } from '@/components/layout/skip-link';
+import { Marquee } from '@/components/sections/marquee';
 import { isAppLocale, routing } from '@/i18n/routing';
 
 export function generateStaticParams() {
@@ -62,6 +63,7 @@ export default async function LocaleLayout({ children, params }: LocaleLayoutPro
           <Header />
           <div id="main-content">{children}</div>
           <Footer />
+          <Marquee />
         </NextIntlClientProvider>
         <PlausibleScript />
         <Analytics />

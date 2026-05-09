@@ -9,23 +9,26 @@ export function Marquee() {
   const items = [...source, ...source];
 
   return (
-    <section
+    <aside
       aria-label={t('ariaLabel')}
-      className="relative overflow-hidden border-y border-cream/10 bg-ink"
+      className="fixed inset-x-0 bottom-0 z-40 overflow-hidden border-t border-cream/10 bg-ink"
     >
-      <div className="overflow-hidden py-6 lg:py-8">
+      <div className="overflow-hidden py-3 lg:py-4">
         <div
-          className="flex w-max items-center gap-14 whitespace-nowrap font-display text-3xl italic font-normal leading-none text-cream sm:gap-20 sm:text-4xl lg:text-5xl"
-          style={{ animation: 'marquee 45s linear infinite' }}
+          className="flex w-max items-center gap-10 whitespace-nowrap font-display text-xl italic font-normal leading-none text-cream sm:gap-14 sm:text-2xl lg:gap-20 lg:text-3xl"
+          style={{ animation: 'marquee 50s linear infinite' }}
         >
           {items.map((item, index) => (
-            <span key={`${item}-${index}`} className="flex items-center gap-14 sm:gap-20">
+            <span
+              key={`${item}-${index}`}
+              className="flex items-center gap-10 sm:gap-14 lg:gap-20"
+            >
               <span aria-hidden="true" className="text-tomato">/</span>
               <span>{item}</span>
             </span>
           ))}
         </div>
       </div>
-    </section>
+    </aside>
   );
 }
