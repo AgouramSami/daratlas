@@ -39,18 +39,18 @@ function StepPanel({ step, index, total }: StepPanelProps) {
           className="pointer-events-none absolute inset-0 bg-ink"
         />
 
-        <div className="container-x relative grid w-full gap-10 lg:grid-cols-[1fr_1fr] lg:items-center lg:gap-20">
+        <div className="container-x relative grid w-full gap-6 lg:grid-cols-[1fr_1fr] lg:items-center lg:gap-20">
           <motion.div
             style={{ y: numberY, opacity: contentOpacity }}
-            className="relative flex flex-col gap-4"
+            className="relative flex flex-col gap-3 lg:gap-4"
           >
             <span className="font-mono text-[11px] uppercase tracking-[0.22em] text-ink/45 transition-colors duration-500">
               {step.weeks}
             </span>
-            <span className="font-display text-[clamp(8rem,18vw,18rem)] italic font-normal leading-[0.85] text-tomato">
+            <span className="font-display text-[clamp(5rem,18vw,18rem)] italic font-normal leading-[0.85] text-tomato">
               {step.number}
             </span>
-            <h3 className="font-display text-4xl italic font-normal leading-[1] text-ink lg:text-6xl">
+            <h3 className="font-display text-3xl italic font-normal leading-[1] text-ink sm:text-4xl lg:text-6xl">
               {step.title}
             </h3>
           </motion.div>

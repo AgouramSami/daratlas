@@ -21,7 +21,7 @@ const fr: ProcessStep[] = [
     weeks: 'Phase principale',
     title: 'On construit',
     description:
-      'Pas de Figma à attendre des semaines. On construit directement votre site ou votre app en code, et vous le voyez évoluer en temps réel sur une URL privée.',
+      'On construit directement votre site ou votre app en code, dès la première semaine. Vous le voyez évoluer en temps réel sur une URL privée, plutôt que d\'attendre une longue phase de maquette.',
     deliverables: [
       'Lien de prévisualisation dès la première semaine',
       'Point hebdomadaire',
@@ -76,7 +76,7 @@ const en: ProcessStep[] = [
     weeks: 'Build phase',
     title: 'We build',
     description:
-      'No Figma to wait on for weeks. We build your site or your app directly in code, and you watch it grow in real time on a private URL.',
+      'We build your site or your app directly in code from week one. You watch it grow in real time on a private URL, rather than waiting on a long mockup phase.',
     deliverables: [
       'Preview link from the first week',
       'Weekly check-in',

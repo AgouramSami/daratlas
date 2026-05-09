@@ -170,7 +170,7 @@ export function Services() {
           {services.map((service, index) => (
             <div
               key={service.id}
-              className="sticky"
+              className="lg:sticky"
               style={{ top: `calc(96px + ${index * 18}px)` }}
             >
               <FadeIn delay={index * 0.04}>

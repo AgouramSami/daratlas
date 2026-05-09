@@ -86,7 +86,7 @@ export function Hero() {
         </h1>
 
         <FadeIn delay={0.15}>
-          <p className="mt-12 max-w-2xl text-pretty text-base leading-relaxed text-ink/70 sm:text-lg lg:text-xl lg:leading-[1.55]">
+          <p className="mt-8 max-w-2xl text-pretty text-base leading-relaxed text-ink/70 sm:mt-12 sm:text-lg lg:text-xl lg:leading-[1.55]">
             {t('subtitle')}
           </p>
         </FadeIn>
