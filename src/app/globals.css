@@ -29,13 +29,6 @@
 
   body {
     @apply bg-cream text-ink font-sans;
-    padding-bottom: 56px;
-  }
-
-  @media (min-width: 1024px) {
-    body {
-      padding-bottom: 76px;
-    }
   }
 
   ::selection {

@@ -11,9 +11,9 @@ export function Marquee() {
   return (
     <aside
       aria-label={t('ariaLabel')}
-      className="fixed inset-x-0 bottom-0 z-40 overflow-hidden border-t border-cream/10 bg-ink"
+      className="relative overflow-hidden border-y border-cream/10 bg-ink"
     >
-      <div className="overflow-hidden py-3 lg:py-4">
+      <div className="overflow-hidden py-4 lg:py-5">
         <div
           className="flex w-max items-center gap-10 whitespace-nowrap font-display text-xl italic font-normal leading-none text-cream sm:gap-14 sm:text-2xl lg:gap-20 lg:text-3xl"
           style={{ animation: 'marquee 50s linear infinite' }}
