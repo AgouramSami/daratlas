@@ -3,13 +3,10 @@ import { CurtainOpener } from '@/components/animations/curtain-opener';
 import { Cta } from '@/components/sections/cta';
 import { FaqSection } from '@/components/sections/faq-section';
 import { Hero } from '@/components/sections/hero';
-import { Manifesto } from '@/components/sections/manifesto';
 import { Marquee } from '@/components/sections/marquee';
-import { Portfolio } from '@/components/sections/portfolio';
 import { Process } from '@/components/sections/process';
 import { Services } from '@/components/sections/services';
 import { Team } from '@/components/sections/team';
-import { Testimonials } from '@/components/sections/testimonials';
 
 interface HomePageProps {
   params: Promise<{ locale: string }>;
@@ -24,11 +21,8 @@ export default async function HomePage({ params }: HomePageProps) {
       <CurtainOpener />
       <Hero />
       <Marquee />
-      <Manifesto />
       <Services />
       <Process />
-      <Portfolio />
-      <Testimonials />
       <Team />
       <FaqSection />
       <Cta />

@@ -20,9 +20,9 @@ export function Team() {
           </div>
         </FadeIn>
 
-        <div className="grid gap-12 lg:grid-cols-[0.85fr_1fr] lg:items-center lg:gap-20">
+        <div className="grid gap-12 lg:grid-cols-[0.85fr_1fr] lg:items-start lg:gap-20">
           <FadeIn>
-            <div className="relative aspect-square overflow-hidden rounded-3xl border border-ink/10 bg-cream-100">
+            <div className="relative aspect-square overflow-hidden rounded-3xl border border-ink/10 bg-cream-100 lg:sticky lg:top-24">
               <Image
                 src="/images/photo_sami_square.jpeg"
                 alt="Sami Agouram, fondateur du studio Dar Atlas"
@@ -47,22 +47,34 @@ export function Team() {
               </span>
             </h2>
 
-            <FadeIn delay={0.12}>
-              <p className="text-pretty text-lg leading-relaxed text-ink/80 lg:text-xl">
-                {t('description')}
-              </p>
-            </FadeIn>
+            <div className="flex flex-col gap-6">
+              <FadeIn delay={0.1}>
+                <p className="text-pretty text-lg leading-relaxed text-ink/80 lg:text-xl">
+                  {t('body1')}
+                </p>
+              </FadeIn>
+              <FadeIn delay={0.16}>
+                <p className="text-pretty text-lg leading-relaxed text-ink/80 lg:text-xl">
+                  {t('body2')}
+                </p>
+              </FadeIn>
+              <FadeIn delay={0.22}>
+                <p className="text-pretty text-lg leading-relaxed text-ink/80 lg:text-xl">
+                  {t('body3')}
+                </p>
+              </FadeIn>
+            </div>
 
-            <FadeIn delay={0.18}>
+            <FadeIn delay={0.28}>
               <div className="flex flex-col gap-2 border-l border-ink/15 pl-6 text-sm">
                 <span className="font-mono text-[10px] uppercase tracking-[0.22em] text-ink/45">
-                  Fondé par
+                  {t('founderLabel')}
                 </span>
                 <span className="font-display text-2xl italic font-normal leading-[1.05] text-ink">
-                  Sami Agouram
+                  {t('founderName')}
                 </span>
                 <span className="font-mono text-[11px] uppercase tracking-[0.22em] text-ink/55">
-                  Studio web, France
+                  {t('founderRole')}
                 </span>
               </div>
             </FadeIn>

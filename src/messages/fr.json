@@ -1,9 +1,8 @@
 {
   "nav": {
-    "manifeste": "Manifeste",
     "services": "Services",
     "process": "Process",
-    "travaux": "Travaux",
+    "apropos": "À propos",
     "tarifs": "Tarifs",
     "faq": "FAQ",
     "contact": "Démarrer un projet",
@@ -14,142 +13,71 @@
     "mainNavigation": "Navigation principale"
   },
   "hero": {
-    "badge": "Un studio web, par Sami Agouram",
-    "titlePart1": "Vous avez une idée.",
-    "titleItalic": "On la déploie.",
-    "subtitle": "Vous présentez votre projet. On le conçoit, on le développe, on le déploie. Vous gardez la main, du brief jusqu'au lancement.",
+    "badge": "STUDIO WEB · SAMI AGOURAM",
+    "titlePart1": "Sites, boutiques,",
+    "titleItalic": "et applications web.",
+    "subtitle": "Je conçois et je développe des projets web indépendants, du brief au lancement. Vous parlez à la personne qui livre, du premier appel à la mise en production.",
     "ctaPrimary": "Démarrer un projet",
-    "ctaSecondary": "Voir les travaux"
+    "ctaSecondary": "Voir les offres"
   },
   "marquee": {
     "ariaLabel": "Domaines d'expertise"
   },
-  "manifesto": {
-    "chapter": "01",
-    "eyebrow": "Manifeste",
-    "titlePart1": "Un studio web,",
-    "titleItalic": "à votre échelle.",
-    "intro": "On a voulu façonner le studio qu'on aurait aimé trouver. Qui s'imprègne du projet avant de proposer. Qui livre la promesse annoncée. Qui reste joignable une fois le site en ligne.",
-    "pillarsLead": "Comment on travaille",
-    "pillars": [
-      {
-        "title": "Comprendre d'abord",
-        "description": "Avant de coder, on cerne ce que vous faites, pourquoi, et pour qui. Le site n'est qu'un outil au service de votre activité."
-      },
-      {
-        "title": "Une conception originale",
-        "description": "Chaque projet part d'une page blanche. Le design naît de votre besoin, pensé pour votre métier. Le résultat ne ressemble à personne d'autre."
-      },
-      {
-        "title": "Le détail jusqu'au bout",
-        "description": "Mobile, desktop, vitesse de chargement, lisibilité, accessibilité. Tout est éprouvé, plusieurs fois. On ne livre que lorsque le résultat est à la hauteur."
-      }
-    ],
-    "founderLabel": "Fondé par",
-    "founderName": "Sami Agouram",
-    "founderRole": "Studio web, France"
-  },
-  "launch": {
-    "chapter": "04",
-    "eyebrow": "Lancement",
-    "titlePart1": "Premier client,",
-    "titleItalic": "conditions spéciales.",
-    "description": "Dar Atlas vient d'ouvrir. Pour le premier projet livré, voici un cadre clair, pensé pour un lancement gagnant-gagnant.",
-    "items": [
-      {
-        "tag": "Tarif",
-        "title": "Moins 30 pour cent sur le devis",
-        "description": "Réduction appliquée sur le devis fixe annoncé par offre. Sans frais cachés, sans remontée à la livraison."
-      },
-      {
-        "tag": "Disponibilité",
-        "title": "Démarrage sous 7 jours",
-        "description": "Aucun client en cours. 100 pour cent du temps studio sur votre projet. Démo chaque vendredi dès la première semaine."
-      },
-      {
-        "tag": "Engagement",
-        "title": "Étude de cas publique",
-        "description": "Brief, choix techniques, métriques, score Lighthouse final. Documenté en transparence. Tu valides chaque ligne avant publication."
-      },
-      {
-        "tag": "Garantie",
-        "title": "Code source dès le jour 1",
-        "description": "Repo GitHub partagé, branche main protégée, accès admin sur vos comptes. Si on s'arrête, vous repartez avec tout."
-      }
-    ],
-    "ctaLabel": "Réserver le slot",
-    "secondaryLabel": "Voir les tarifs"
-  },
   "services": {
-    "chapter": "02",
-    "eyebrow": "Services",
-    "titlePart1": "Cinq façons",
-    "titleItalic": "de donner forme à votre projet.",
-    "description": "Un format clair : pour chaque offre, un prix de départ, une durée et un périmètre détaillé. Vous décidez en connaissance de cause, sans surprise au moment de la facture.",
+    "chapter": "01",
+    "eyebrow": "L'offre",
+    "titlePart1": "Cinq offres,",
+    "titleItalic": "un point d'entrée pour chaque projet.",
+    "description": "Pour chaque besoin, un format simple : prix de départ, durée et périmètre détaillé. Le devis fixe vous est transmis sous 48 heures après notre premier échange.",
     "priceLabel": "À partir de",
     "ctaLabel": "Démarrer"
   },
   "process": {
-    "chapter": "03",
-    "eyebrow": "Comment on travaille",
+    "chapter": "02",
+    "eyebrow": "Comment je travaille",
     "titlePart1": "Quatre étapes,",
-    "titleItalic": "et votre projet existe.",
-    "description": "Quatre étapes posées : un échange, une conception, un affinage, un lancement. À chaque étape, vous savez où on en est."
-  },
-  "portfolio": {
-    "chapter": "04",
-    "eyebrow": "Travaux",
-    "titlePart1": "Conçu,",
-    "titleItalic": "à votre image.",
-    "description": "Quelques exemples de projets qu'on aime mener. Chaque site est conçu pour son métier, son ton, ses utilisateurs.",
-    "sectorLabel": "Secteur",
-    "typeLabel": "Type",
-    "yearLabel": "Année",
-    "ctaLabel": "En discuter"
-  },
-  "testimonials": {
-    "chapter": "05",
-    "eyebrow": "Témoignages",
-    "titlePart1": "Trois retours",
-    "titleItalic": "qui reviennent.",
-    "description": "Ce que les clients nous disent le plus souvent, après livraison."
+    "titleItalic": "pour mener votre projet.",
+    "description": "Un parcours posé du premier échange à la mise en ligne. À chaque étape, vous savez où on en est."
   },
   "team": {
-    "chapter": "06",
-    "eyebrow": "À propos",
-    "titlePart1": "Un studio web,",
+    "chapter": "03",
+    "eyebrow": "Le studio",
+    "titlePart1": "Indépendant,",
     "titleItalic": "par Sami Agouram.",
-    "description": "Studio web indépendant, basé en France. Une seule personne sur tout le parcours : du cadrage au design, du code à la mise en production. Vous parlez directement à celui qui livre."
+    "body1": "Je m'appelle Sami Agouram. Dar Atlas est mon studio web indépendant, basé en France. Une seule personne sur tout le parcours : du cadrage au design, du code à la mise en production. Vous parlez directement à la personne qui livre.",
+    "body2": "J'ai voulu façonner le studio que j'aurais aimé trouver. Qui prend le temps de comprendre votre activité avant de proposer. Qui livre la promesse annoncée. Qui reste joignable une fois le site en ligne.",
+    "body3": "Chaque projet part d'une page blanche. Le design naît de votre besoin, pensé pour votre métier. Mobile, vitesse de chargement, lisibilité, accessibilité : tout est éprouvé, plusieurs fois. Je ne livre que lorsque le résultat est à la hauteur.",
+    "founderLabel": "Fondé par",
+    "founderName": "Sami Agouram",
+    "founderRole": "Studio web indépendant, France"
   },
   "faq": {
-    "chapter": "07",
+    "chapter": "04",
     "eyebrow": "FAQ",
     "titlePart1": "Vos questions,",
-    "titleItalic": "nos réponses.",
-    "description": "Les questions qu'on nous pose le plus souvent avant de démarrer. Si la vôtre n'est pas là, écrivez-nous, on répond en 24 heures."
+    "titleItalic": "mes réponses.",
+    "description": "Les questions qu'on me pose le plus souvent avant de démarrer. Si la vôtre n'est pas là, écrivez-moi, je réponds en 24 heures."
   },
   "cta": {
-    "eyebrow": "On commence ?",
+    "eyebrow": "On y va ?",
     "titlePart1": "Vous avez un projet ?",
-    "titleItalic": "On le déploie.",
+    "titleItalic": "Écrivons-en les premières lignes.",
     "description": "30 minutes au téléphone, sans engagement. Vous repartez avec une question répondue, un avis honnête ou un devis fixe sous 48 heures.",
     "primary": "Démarrer un projet",
-    "secondary": "Voir les travaux",
+    "secondary": "Voir les offres",
     "email": "Écrire à contact@daratlas.fr"
   },
   "footer": {
-    "tagline": "Vous avez une idée. On la déploie.",
+    "tagline": "Studio web indépendant. France.",
     "headings": {
       "studio": "Studio",
       "pages": "Pages",
       "contact": "Contact"
     },
     "links": {
-      "manifesto": "Manifeste",
       "services": "Services",
       "process": "Process",
-      "work": "Travaux",
-      "testimonials": "Témoignages",
+      "apropos": "À propos",
       "faq": "FAQ",
       "pricing": "Tarifs",
       "contact": "Contact",
@@ -165,7 +93,7 @@
     "eyebrow": "Contact",
     "titlePart1": "Parlons de",
     "titleItalic": "votre projet.",
-    "description": "Remplissez le formulaire ci-dessous. On vous répond en 24 heures ouvrées avec une question, une proposition d'appel ou un devis fixe sous 48 heures.",
+    "description": "Remplissez le formulaire ci-dessous. Je vous réponds en 24 heures ouvrées avec une question, une proposition d'appel ou un devis fixe sous 48 heures.",
     "asideHeading": "Plutôt par email ?",
     "trust": {
       "responseLabel": "Réponse",
@@ -192,7 +120,7 @@
       "responseTime": "Réponse sous 24 heures ouvrées",
       "consent": "En envoyant ce formulaire, vous acceptez que vos données soient utilisées pour répondre à votre demande. Aucune donnée n'est partagée à un tiers.",
       "successTitle": "Message envoyé.",
-      "successDescription": "On vous répond en 24 heures ouvrées. Si c'est urgent, écrivez directement à contact@daratlas.fr.",
+      "successDescription": "Je vous réponds en 24 heures ouvrées. Si c'est urgent, écrivez directement à contact@daratlas.fr.",
       "queuedTitle": "Bien reçu, mais...",
       "queuedDescription": "L'envoi automatique n'est pas encore actif sur ce site. Pour être sûr que votre message arrive, écrivez directement à contact@daratlas.fr. Réponse en 24 heures.",
       "queuedMailto": "Écrire à contact@daratlas.fr",
@@ -245,7 +173,7 @@
     ],
     "afterEyebrow": "Après la livraison",
     "afterTitlePart1": "Le site est à vous.",
-    "afterTitleItalic": "On reste joignable.",
+    "afterTitleItalic": "Je reste joignable.",
     "afterDescription": "Vous gardez la main sur tout. Hébergement payé directement par vous, code source disponible, accès admin transmis. Pour les évolutions, plusieurs formats au choix.",
     "afterPosts": [
       {
@@ -262,7 +190,7 @@
       }
     ],
     "faqEyebrow": "Questions sur les tarifs",
-    "faqTitlePart1": "Tout ce qu'on nous demande,",
+    "faqTitlePart1": "Tout ce qu'on me demande,",
     "faqTitleItalic": "avant de signer."
   },
   "legal": {

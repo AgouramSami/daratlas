@@ -13,11 +13,9 @@ export function Footer() {
   const year = new Date().getFullYear();
 
   const studioLinks: FooterLink[] = [
-    { label: t('links.manifesto'), href: '/#manifeste' },
     { label: t('links.services'), href: '/#services' },
     { label: t('links.process'), href: '/#process' },
-    { label: t('links.work'), href: '/#travaux' },
-    { label: t('links.testimonials'), href: '/#temoignages' },
+    { label: t('links.apropos'), href: '/#a-propos' },
     { label: t('links.faq'), href: '/#faq' },
   ];
 

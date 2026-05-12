@@ -51,7 +51,7 @@ export function Header() {
                   className="transition-colors hover:text-ink"
                   data-cursor-hover
                 >
-                  {t(link.id as 'manifeste')}
+                  {t(link.id as 'services')}
                 </Link>
               </li>
             ))}
@@ -111,7 +111,7 @@ export function Header() {
                     onClick={() => setOpen(false)}
                     className="block py-3 text-2xl font-medium tracking-tight"
                   >
-                    {t(link.id as 'manifeste')}
+                    {t(link.id as 'services')}
                   </Link>
                 </li>
               ))}

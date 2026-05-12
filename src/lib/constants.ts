@@ -5,8 +5,8 @@ export const SITE_CONFIG = {
   shortName: 'Dar Atlas',
   url: 'https://daratlas.fr',
   description:
-    'Studio web français. On conçoit des sites, des boutiques en ligne et des applications pour tout type d\'activité. Prix fixes, livraison rapide, accompagnement direct.',
-  tagline: 'On conçoit des sites et des apps qui tiennent leurs promesses.',
+    'Studio web indépendant en France. Je conçois et je développe des sites, des boutiques en ligne et des applications web pour tout type d\'activité.',
+  tagline: 'Studio web indépendant. Vous avez une idée, je la déploie.',
   contactEmail: 'contact@daratlas.fr',
   contactPhone: '+33 6 52 02 27 87',
   contactPhoneDisplay: '06 52 02 27 87',
@@ -29,21 +29,20 @@ export const SITE_CONFIG = {
 } as const;
 
 export const NAV_LINKS = [
-  { id: 'manifeste', href: '/#manifeste' },
   { id: 'services', href: '/#services' },
   { id: 'process', href: '/#process' },
-  { id: 'travaux', href: '/#travaux' },
+  { id: 'apropos', href: '/#a-propos' },
   { id: 'tarifs', href: '/pricing' },
   { id: 'faq', href: '/#faq' },
 ] as const;
 
 const marqueeFr = [
-  'Sites web singuliers',
+  'Sites web',
   'Boutiques en ligne',
   'Applications web',
   'Identité visuelle',
-  'Refontes et améliorations',
-  'Multilingue',
+  'Refontes',
+  'Indépendant',
   'Mobile-first',
   'Précis jusqu\'au pixel',
   'Livré en mains propres',
@@ -51,12 +50,12 @@ const marqueeFr = [
 ];
 
 const marqueeEn = [
-  'Singular websites',
+  'Websites',
   'Online stores',
   'Web applications',
-  'Visual identities',
-  'Redesigns and improvements',
-  'Multilingual',
+  'Visual identity',
+  'Redesigns',
+  'Independent',
   'Mobile-first',
   'Precise to the pixel',
   'Hand-delivered',

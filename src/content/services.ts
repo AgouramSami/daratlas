@@ -9,7 +9,7 @@ const fr: Service[] = [
     priceFrom: 1500,
     duration: '2 à 3 semaines',
     description:
-      'Un site qui présente votre activité, votre produit ou votre projet. Plusieurs pages personnalisées, optimisées pour mobile, prêtes pour Google. Vous modifiez le contenu vous-même après livraison.',
+      'Un site qui présente votre activité, votre produit ou votre projet. Je conçois plusieurs pages personnalisées, optimisées pour mobile et prêtes pour Google. Vous modifiez le contenu vous-même après livraison.',
     included: [
       'Design personnalisé, conçu pour vous',
       'Responsive mobile et desktop',
@@ -28,7 +28,7 @@ const fr: Service[] = [
     priceFrom: 3500,
     duration: '4 à 6 semaines',
     description:
-      'Pour vendre vos produits ou vos services en ligne. Catalogue, panier, paiement sécurisé, gestion des commandes. On conçoit la boutique qui correspond à votre activité, pensée pour votre métier.',
+      'Pour vendre vos produits ou vos services en ligne. Catalogue, panier, paiement sécurisé, gestion des commandes. Je conçois la boutique qui correspond à votre activité, pensée pour votre métier.',
     included: [
       'Catalogue produits ou services',
       'Panier et paiement sécurisé',
@@ -42,11 +42,11 @@ const fr: Service[] = [
   {
     id: 'application',
     number: '03',
-    title: 'Application',
+    title: 'Application web',
     priceFrom: 4000,
     duration: '4 à 8 semaines',
     description:
-      'Une application web pour votre équipe, vos clients ou votre activité. Outil interne, plateforme de réservation, espace membre, tableau de bord. On part de votre besoin et on développe ce qui y répond.',
+      'Une application web pour votre équipe, vos clients ou votre activité. Outil interne, plateforme de réservation, espace membre, tableau de bord. Je pars de votre besoin et je développe ce qui y répond.',
     included: [
       'Conception du parcours utilisateur',
       'Design d\'interface',
@@ -64,7 +64,7 @@ const fr: Service[] = [
     priceFrom: 1200,
     duration: '2 à 3 semaines',
     description:
-      'Logo, palette, typographies, déclinaisons. Une identité pensée pour fonctionner partout, sur votre site, vos cartes, vos emails, vos réseaux. Si on fait aussi votre site, l\'identité s\'intègre directement.',
+      'Logo, palette, typographies, déclinaisons. Une identité pensée pour fonctionner partout, sur votre site, vos cartes, vos emails, vos réseaux. Si je conçois aussi votre site, l\'identité s\'intègre directement.',
     included: [
       'Logo principal et variantes',
       'Palette de couleurs',
@@ -82,7 +82,7 @@ const fr: Service[] = [
     priceFrom: 900,
     duration: '1 à 2 semaines pour l\'audit',
     description:
-      'Vous avez déjà un site ou une app, mais quelque chose ne va pas. Trop lent, démodé, mal référencé, difficile à mettre à jour. On audite l\'existant, on partage notre lecture, on rectifie le tir.',
+      'Vous avez déjà un site ou une app, mais quelque chose ne va pas. Trop lent, démodé, mal référencé, difficile à mettre à jour. J\'audite l\'existant, je partage ma lecture, je rectifie le tir.',
     included: [
       'Analyse complète',
       'Plan d\'action écrit',
@@ -103,7 +103,7 @@ const en: Service[] = [
     priceFrom: 1500,
     duration: '2 to 3 weeks',
     description:
-      'A site that introduces your activity, your product or your project. Personalized pages, mobile-optimized, ready for Google. You can edit the content yourself after delivery.',
+      'A site that introduces your activity, your product or your project. I design personalized pages, mobile-optimized and ready for Google. You can edit the content yourself after delivery.',
     included: [
       'Custom design, made for you',
       'Responsive on mobile and desktop',
@@ -122,7 +122,7 @@ const en: Service[] = [
     priceFrom: 3500,
     duration: '4 to 6 weeks',
     description:
-      'To sell your products or your services online. Catalog, cart, secure checkout, order management. We design the store that fits your activity, shaped for your trade.',
+      'To sell your products or your services online. Catalog, cart, secure checkout, order management. I design the store that fits your activity, shaped for your trade.',
     included: [
       'Product or service catalog',
       'Cart and secure payment',
@@ -136,11 +136,11 @@ const en: Service[] = [
   {
     id: 'application',
     number: '03',
-    title: 'Application',
+    title: 'Web application',
     priceFrom: 4000,
     duration: '4 to 8 weeks',
     description:
-      'A web application for your team, your clients or your activity. Internal tool, booking platform, member area, dashboard. We start from your need and develop what answers it.',
+      'A web application for your team, your clients or your activity. Internal tool, booking platform, member area, dashboard. I start from your need and develop what answers it.',
     included: [
       'User journey design',
       'Interface design',
@@ -158,7 +158,7 @@ const en: Service[] = [
     priceFrom: 1200,
     duration: '2 to 3 weeks',
     description:
-      'Logo, palette, typography, variants. An identity designed to work everywhere: your site, your cards, your emails, your social. If we also build your site, the identity integrates directly.',
+      'Logo, palette, typography, variants. An identity designed to work everywhere: your site, your cards, your emails, your social. If I also design your site, the identity integrates directly.',
     included: [
       'Primary logo and variants',
       'Color palette',
@@ -176,7 +176,7 @@ const en: Service[] = [
     priceFrom: 900,
     duration: '1 to 2 weeks for the audit',
     description:
-      'You already have a site or an app, but something is off. Too slow, dated, poor ranking, hard to update. We audit what exists, share our read, then put things right.',
+      'You already have a site or an app, but something is off. Too slow, dated, poor ranking, hard to update. I audit what exists, share my read, then put things right.',
     included: [
       'Full analysis',
       'Written action plan',

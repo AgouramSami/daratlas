@@ -3,12 +3,12 @@ import type { ProcessStep } from '@/types';
 
 const fr: ProcessStep[] = [
   {
-    id: 'on-sappelle',
+    id: 'premier-echange',
     number: '01',
     weeks: '30 minutes',
-    title: 'On s\'appelle',
+    title: 'Premier échange',
     description:
-      'Un appel de 30 minutes pour qu\'on comprenne votre projet, votre délai, votre budget. Vous posez vos questions, on pose les nôtres.',
+      'Un appel pour comprendre votre projet, votre délai, votre budget. Vous posez vos questions, je pose les miennes. Vous repartez avec un compte-rendu écrit, un devis fixe et un planning.',
     deliverables: [
       'Compte-rendu écrit',
       'Devis fixe',
@@ -16,12 +16,12 @@ const fr: ProcessStep[] = [
     ],
   },
   {
-    id: 'on-construit',
+    id: 'conception',
     number: '02',
     weeks: 'Phase principale',
-    title: 'On conçoit',
+    title: 'Conception',
     description:
-      'On développe directement votre site ou votre app en code, dès la première semaine. Vous le voyez évoluer en temps réel sur une URL privée, sans attendre une longue phase de maquette.',
+      'Je développe directement votre site ou votre app en code, dès la première semaine. Vous le voyez évoluer en temps réel sur une URL privée, avec un point hebdomadaire et un canal de discussion à votre choix.',
     deliverables: [
       'Lien de prévisualisation dès la première semaine',
       'Point hebdomadaire',
@@ -29,12 +29,12 @@ const fr: ProcessStep[] = [
     ],
   },
   {
-    id: 'on-affine',
+    id: 'affinage',
     number: '03',
     weeks: 'Avant la livraison',
-    title: 'On affine',
+    title: 'Affinage',
     description:
-      'On ajuste ensemble : textes, images, détails. C\'est le moment où votre site devient vraiment le vôtre.',
+      'J\'ajuste avec vous les textes, les images, les détails. C\'est le moment où votre projet devient vraiment le vôtre. Plusieurs allers-retours, des essais en conditions réelles, et le code source.',
     deliverables: [
       'Allers-retours pour caler le contenu',
       'Essais en conditions réelles, mobile et desktop',
@@ -42,12 +42,12 @@ const fr: ProcessStep[] = [
     ],
   },
   {
-    id: 'on-lance',
+    id: 'lancement',
     number: '04',
     weeks: 'Le jour J',
-    title: 'On déploie',
+    title: 'Lancement',
     description:
-      'Déploiement, configuration du nom de domaine, vérifications, formation pour que vous puissiez gérer la suite. 30 jours de corrections offertes.',
+      'Déploiement, configuration du nom de domaine, vérifications, formation pour que vous puissiez gérer la suite. 30 jours de corrections offertes après la mise en ligne.',
     deliverables: [
       'Votre site ou votre app en ligne',
       'Session de formation',
@@ -58,12 +58,12 @@ const fr: ProcessStep[] = [
 
 const en: ProcessStep[] = [
   {
-    id: 'on-sappelle',
+    id: 'premier-echange',
     number: '01',
     weeks: '30 minutes',
-    title: 'We talk',
+    title: 'First conversation',
     description:
-      'A 30-minute call so we can understand your project, your timeline, your budget. You ask your questions, we ask ours.',
+      'A call to understand your project, your timeline, your budget. You ask your questions, I ask mine. You leave with a written summary, a fixed quote and a schedule.',
     deliverables: [
       'Written summary',
       'Fixed quote',
@@ -71,12 +71,12 @@ const en: ProcessStep[] = [
     ],
   },
   {
-    id: 'on-construit',
+    id: 'conception',
     number: '02',
     weeks: 'Build phase',
-    title: 'We design',
+    title: 'Design',
     description:
-      'We develop your site or your app directly in code from week one. You watch it grow in real time on a private URL, without waiting on a long mockup phase.',
+      'I develop your site or your app directly in code from week one. You watch it grow in real time on a private URL, with a weekly check-in and a discussion channel of your choice.',
     deliverables: [
       'Preview link from the first week',
       'Weekly check-in',
@@ -84,12 +84,12 @@ const en: ProcessStep[] = [
     ],
   },
   {
-    id: 'on-affine',
+    id: 'affinage',
     number: '03',
     weeks: 'Before delivery',
-    title: 'We polish',
+    title: 'Refinement',
     description:
-      'We adjust together: copy, images, details. This is when your site truly becomes yours.',
+      'I adjust with you the copy, the images, the details. This is when your project truly becomes yours. Rounds of revisions, real-world testing, and the source code.',
     deliverables: [
       'Rounds of revisions on the content',
       'Real-world testing, mobile and desktop',
@@ -97,12 +97,12 @@ const en: ProcessStep[] = [
     ],
   },
   {
-    id: 'on-lance',
+    id: 'lancement',
     number: '04',
     weeks: 'Launch day',
-    title: 'We deploy',
+    title: 'Launch',
     description:
-      'Deployment, domain configuration, checks, training so you can manage the next steps. 30 days of complimentary fixes.',
+      'Deployment, domain configuration, checks, training so you can manage the next steps. 30 days of complimentary fixes after going live.',
     deliverables: [
       'Your site or app live',
       'Training session',

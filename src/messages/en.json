@@ -1,9 +1,8 @@
 {
   "nav": {
-    "manifeste": "Manifesto",
     "services": "Services",
     "process": "Process",
-    "travaux": "Work",
+    "apropos": "About",
     "tarifs": "Pricing",
     "faq": "FAQ",
     "contact": "Start a project",
@@ -14,142 +13,71 @@
     "mainNavigation": "Main navigation"
   },
   "hero": {
-    "badge": "A web studio, by Sami Agouram",
-    "titlePart1": "You have an idea.",
-    "titleItalic": "We deploy it.",
-    "subtitle": "You present your project. We design it, we develop it, we deploy it. You keep the keys, from brief to launch.",
+    "badge": "WEB STUDIO · SAMI AGOURAM",
+    "titlePart1": "Sites, stores,",
+    "titleItalic": "and web applications.",
+    "subtitle": "I design and develop independent web projects, from brief to launch. You speak to the person who delivers, from the first call to going live.",
     "ctaPrimary": "Start a project",
-    "ctaSecondary": "See our work"
+    "ctaSecondary": "See the offers"
   },
   "marquee": {
     "ariaLabel": "Areas of expertise"
   },
-  "manifesto": {
-    "chapter": "01",
-    "eyebrow": "Manifesto",
-    "titlePart1": "A web studio,",
-    "titleItalic": "to your scale.",
-    "intro": "We wanted to shape the studio we would have liked to find. One that immerses itself in the project before proposing. One that delivers the promise made. One that stays reachable once the site is live.",
-    "pillarsLead": "How we work",
-    "pillars": [
-      {
-        "title": "Understand first",
-        "description": "Before writing code, we grasp what you do, why, and for whom. The site is just a tool serving your activity."
-      },
-      {
-        "title": "Original by design",
-        "description": "Every project starts from a blank page. The design grows from your need, shaped for your trade. The result looks like nobody else's."
-      },
-      {
-        "title": "Detail to the end",
-        "description": "Mobile, desktop, loading speed, readability, accessibility. Everything is tested, multiple times. We only ship when the result is up to standard."
-      }
-    ],
-    "founderLabel": "Founded by",
-    "founderName": "Sami Agouram",
-    "founderRole": "Web studio, France"
-  },
-  "launch": {
-    "chapter": "04",
-    "eyebrow": "Launch",
-    "titlePart1": "First client,",
-    "titleItalic": "special terms.",
-    "description": "Dar Atlas just opened. For the first project shipped, here is a clear, win-win framework.",
-    "items": [
-      {
-        "tag": "Price",
-        "title": "30 percent off the quote",
-        "description": "Discount applied to the fixed quote announced per offer. No hidden cost, no upcharge at delivery."
-      },
-      {
-        "tag": "Availability",
-        "title": "Start within 7 days",
-        "description": "No active clients. 100 percent of studio time on your project. Demo every Friday from week one."
-      },
-      {
-        "tag": "Commitment",
-        "title": "Public case study",
-        "description": "Brief, technical choices, metrics, final Lighthouse score. Documented openly. You validate every line before publication."
-      },
-      {
-        "tag": "Guarantee",
-        "title": "Source code from day one",
-        "description": "Shared GitHub repo, protected main branch, admin access on your accounts. If we part ways, you walk away with everything."
-      }
-    ],
-    "ctaLabel": "Reserve the slot",
-    "secondaryLabel": "See pricing"
-  },
   "services": {
-    "chapter": "02",
-    "eyebrow": "Services",
-    "titlePart1": "Five ways",
-    "titleItalic": "to give shape to your project.",
-    "description": "A clear format: for each offer, a starting price, a duration and a detailed scope. You decide with full information, no surprise on the invoice.",
+    "chapter": "01",
+    "eyebrow": "The offer",
+    "titlePart1": "Five offers,",
+    "titleItalic": "one entry point for every project.",
+    "description": "For each need, a simple format: starting price, duration and detailed scope. A fixed quote is sent within 48 hours after our first conversation.",
     "priceLabel": "Starting at",
     "ctaLabel": "Start"
   },
   "process": {
-    "chapter": "03",
-    "eyebrow": "How we work",
+    "chapter": "02",
+    "eyebrow": "How I work",
     "titlePart1": "Four steps,",
-    "titleItalic": "and your project exists.",
-    "description": "Four steps, plain and clear: a conversation, a design, a refinement, a launch. At each stage, you know exactly where we stand."
-  },
-  "portfolio": {
-    "chapter": "04",
-    "eyebrow": "Work",
-    "titlePart1": "Designed,",
-    "titleItalic": "in your image.",
-    "description": "A few examples of projects we enjoy leading. Every site is shaped around its trade, its tone, its users.",
-    "sectorLabel": "Sector",
-    "typeLabel": "Type",
-    "yearLabel": "Year",
-    "ctaLabel": "Discuss"
-  },
-  "testimonials": {
-    "chapter": "05",
-    "eyebrow": "Testimonials",
-    "titlePart1": "Three things",
-    "titleItalic": "we hear most.",
-    "description": "What clients keep telling us, after delivery."
+    "titleItalic": "to lead your project.",
+    "description": "A clear journey from first conversation to going live. At each stage, you know exactly where we stand."
   },
   "team": {
-    "chapter": "06",
-    "eyebrow": "About",
-    "titlePart1": "A web studio,",
+    "chapter": "03",
+    "eyebrow": "The studio",
+    "titlePart1": "Independent,",
     "titleItalic": "by Sami Agouram.",
-    "description": "Independent web studio, based in France. One person across the whole journey: from scoping to design, from code to going live. You speak directly to the person who delivers."
+    "body1": "My name is Sami Agouram. Dar Atlas is my independent web studio, based in France. One person across the whole journey: from scoping to design, from code to going live. You speak directly to the person who delivers.",
+    "body2": "I wanted to shape the studio I would have liked to find. One that takes time to understand your activity before proposing. One that delivers the promise made. One that stays reachable once the site is live.",
+    "body3": "Every project starts from a blank page. The design grows from your need, shaped for your trade. Mobile, loading speed, readability, accessibility: everything is tested, multiple times. I only ship when the result is up to standard.",
+    "founderLabel": "Founded by",
+    "founderName": "Sami Agouram",
+    "founderRole": "Independent web studio, France"
   },
   "faq": {
-    "chapter": "07",
+    "chapter": "04",
     "eyebrow": "FAQ",
     "titlePart1": "Your questions,",
-    "titleItalic": "our answers.",
-    "description": "The questions we hear the most before starting. If yours is not here, write to us, we reply within 24 hours."
+    "titleItalic": "my answers.",
+    "description": "The questions I get asked the most before starting. If yours is not here, write to me, I reply within 24 hours."
   },
   "cta": {
     "eyebrow": "Shall we start?",
     "titlePart1": "Got a project?",
-    "titleItalic": "We deploy it.",
-    "description": "30 minutes on the phone, no strings attached. You leave with an answer, an honest opinion, or a fixed quote within 48 hours.",
+    "titleItalic": "Let's write the first lines.",
+    "description": "30 minutes on the phone, no strings attached. You leave with an answered question, an honest opinion, or a fixed quote within 48 hours.",
     "primary": "Start a project",
-    "secondary": "See our work",
+    "secondary": "See the offers",
     "email": "Write to contact@daratlas.fr"
   },
   "footer": {
-    "tagline": "You have an idea. We deploy it.",
+    "tagline": "Independent web studio. France.",
     "headings": {
       "studio": "Studio",
       "pages": "Pages",
       "contact": "Contact"
     },
     "links": {
-      "manifesto": "Manifesto",
       "services": "Services",
       "process": "Process",
-      "work": "Work",
-      "testimonials": "Testimonials",
+      "apropos": "About",
       "faq": "FAQ",
       "pricing": "Pricing",
       "contact": "Contact",
@@ -165,7 +93,7 @@
     "eyebrow": "Contact",
     "titlePart1": "Let's talk about",
     "titleItalic": "your project.",
-    "description": "Fill out the form below. We reply within 24 business hours with a question, a call proposal or a fixed quote within 48 hours.",
+    "description": "Fill out the form below. I reply within 24 business hours with a question, a call proposal or a fixed quote within 48 hours.",
     "asideHeading": "Rather by email?",
     "trust": {
       "responseLabel": "Reply",
@@ -192,7 +120,7 @@
       "responseTime": "Reply within 24 business hours",
       "consent": "By submitting this form, you agree that your data will be used to reply to your request. No data is shared with third parties.",
       "successTitle": "Message sent.",
-      "successDescription": "We reply within 24 business hours. If urgent, write directly to contact@daratlas.fr.",
+      "successDescription": "I reply within 24 business hours. If urgent, write directly to contact@daratlas.fr.",
       "queuedTitle": "Got it, but...",
       "queuedDescription": "Auto-delivery is not active on this site yet. To make sure your message gets through, write directly to contact@daratlas.fr. Reply within 24 hours.",
       "queuedMailto": "Write to contact@daratlas.fr",
@@ -245,7 +173,7 @@
     ],
     "afterEyebrow": "After delivery",
     "afterTitlePart1": "The site is yours.",
-    "afterTitleItalic": "We stay reachable.",
+    "afterTitleItalic": "I stay reachable.",
     "afterDescription": "You keep the keys to everything. Hosting paid directly by you, source code available, admin access handed over. For evolutions, several options.",
     "afterPosts": [
       {
@@ -262,7 +190,7 @@
       }
     ],
     "faqEyebrow": "Pricing questions",
-    "faqTitlePart1": "Everything we get asked,",
+    "faqTitlePart1": "Everything I get asked,",
     "faqTitleItalic": "before signing."
   },
   "legal": {
@@ -274,7 +202,7 @@
     "privacyTitle": "Privacy policy",
     "privacyMetaDescription": "Privacy policy for daratlas.fr: data collected, purposes, retention period, user rights and cookies.",
     "privacyEyebrow": "Privacy policy",
-    "privacyHeading": "How I handle your data, in plain English.",
+    "privacyHeading": "How I handle your data, in plain terms.",
     "privacyDescription": "The daratlas.fr site complies with the General Data Protection Regulation (GDPR) and the French Data Protection Act. Here is exactly what I collect, why, and for how long."
   }
 }
